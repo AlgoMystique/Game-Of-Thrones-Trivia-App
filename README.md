@@ -31,7 +31,7 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
 
 [View a live demo here](https://algomystique.github.io/Game-Of-Thrones-Trivia-App)
 
-### How to Contribute
+## How to Contribute
 
 **Fork the repository**
 
