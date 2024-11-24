@@ -19,9 +19,10 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
 
 ## Installation:
 
-1. **Clone the repository** to your local machine:
+ **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/yourusername/game-of-thrones-trivia-quiz.git
+```
 
 ![Quiz Screenshot](src/images/shot1.png)
 
@@ -30,6 +31,12 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
 
 [View a live demo here](https://algomystique.github.io/Game-Of-Thrones-Trivia-App)
 
+### How to Contribute
+
+**Fork the repository**
+
+ Click on the "Fork" button at the top of this repository to create your own copy of the project.
+ 
 ## **License:**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
