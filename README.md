@@ -25,7 +25,7 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
 ![Quiz Screenshot](src/images/shot1.png)
 
 
-### Live-Demo:
+### Play Here:
 
 [View a live demo here]()
 
