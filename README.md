@@ -2,12 +2,12 @@
 A simple trivia app created using HTML,CSS &amp; Vanilla JavaScript.
 
 
-![Quiz Screenshot](screenshot/shot1.png)
-![Quiz Screenshot](screenshot/shot2.png)
+![Quiz Screenshot](src/images/shot1.png)
+![Quiz Screenshot](src/images/shot2.png)
 
 ### Live-Demo:
 
-[View a live demo here](https://algomystique.github.io/Quiz-App-VanillaJS/)
+[View a live demo here]()
 
 ## **License:**
 
