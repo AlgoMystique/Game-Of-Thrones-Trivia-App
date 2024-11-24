@@ -23,7 +23,7 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
    git clone https://github.com/yourusername/game-of-thrones-trivia-quiz.git
 
 ![Quiz Screenshot](src/images/shot1.png)
-![Quiz Screenshot](src/images/shot2.png)
+
 
 ### Live-Demo:
 
