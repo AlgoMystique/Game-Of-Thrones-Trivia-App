@@ -13,7 +13,7 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
 3. Challenge yourself and come back to test your knowledge again!
 
 ## How to Use the Audio Feature:
-- Simply click the **audio button** in the top right corner of the app to start playing the **Game of Thrones theme song**.
+- Simply click the **audio button** in the top right corner of the app.
 - The music will play in the background as you enjoy the quiz experience.
 
 ## Installation:
