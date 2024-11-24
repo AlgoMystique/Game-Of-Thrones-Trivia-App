@@ -5,6 +5,7 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
 ## Features:
 - A collection of trivia questions based on characters, events, and lore from **Game of Thrones**.
 - A smooth and interactive user interface that makes the trivia experience even more immersive.
+- Suitable to fit all device screens. Play at your desktop or mobile. 
 - **Audio Feature**: The audio button located in the top right corner of the screen plays the legendary **Game of Thrones theme song**. 
 
 ## How to Play:
@@ -27,7 +28,7 @@ Welcome to the **Game of Thrones Trivia Quiz App**! Test your knowledge of the w
 
 ### Play Here:
 
-[View a live demo here]()
+[View a live demo here]([)](https://algomystique.github.io/Game-Of-Thrones-Trivia-App)
 
 ## **License:**
 
